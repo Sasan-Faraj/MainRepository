@@ -1,5 +1,5 @@
 <h1 align="center">Sasan Faraj</h1>
-<h2 align="center">Project Portfolio</h1>
+<h2 align="center">Project Portfolio</h2>
 
 <p align="Left">
   This portfolio contains all projects I have completed for class, research, or personal interest. They will be seperated into Spatial Analysis, Natural Language Processing, and General Data Science Methods. 
