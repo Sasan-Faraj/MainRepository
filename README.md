@@ -5,7 +5,7 @@
   This portfolio contains all projects I have completed for class, research, or personal interest. They will be seperated into Spatial Analysis, Natural Language Processing, and General Data Science Methods. 
 </p>
 
-___
+<hr>
 
 <h3 align ="Center"> Spatal Analysis </h3>
 
@@ -15,3 +15,6 @@ ___
 <br>
 <br>
   This project leveraged techniques in local data preprocessing, cloud based data management, geocoding, and mapping techniques. The softwares and languages relied on were ArcGIS Online for display and layer hosting with prep
+
+<hr>
+
