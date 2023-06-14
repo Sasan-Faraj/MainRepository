@@ -17,7 +17,7 @@
 
 <hr>
 
-<h3 align="ce"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
+<h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
 <p align="Left">
 Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
 
