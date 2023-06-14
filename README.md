@@ -2,7 +2,7 @@
 <h2 align="center">Project Portfolio</h2>
 
 <p align="Left">
-  This portfolio contains all projects I have completed for class, research, or personal interest. They relate to a range of fields such as geospatial analysis to natural langauge processing.
+  This portfolio contains all projects I have completed for class, research, or personal interest.
 </p>
 
 <hr>
