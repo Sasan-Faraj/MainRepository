@@ -2,13 +2,13 @@
 <h2 align="center">Project Portfolio</h2>
 
 <p align="Left">
-  This portfolio contains all projects I have completed for class, research, or personal interest. T
+  This portfolio contains all projects I have completed for class, research, or personal interest. They relate to a range of fields such as geospatial analysis to natural langauge processing.
 </p>
 
 <hr>
 
 
-<h3 align = "left"> <a href="https://experience.arcgis.com/experience/eed2f63af3fc40b7ba93b327e2ac44a2">Mapping Clincal Trials: May, 2023</a>  </h3>
+<h3 align = "center"> <a href="https://experience.arcgis.com/experience/eed2f63af3fc40b7ba93b327e2ac44a2">Mapping Clincal Trials: May, 2023</a>  </h3>
 <p align = "left">
   Expanding upon a study's static heat map of clinical trials relating to diabetic eye diseases in the US, I created an web application to enhance the visualization, allowing for users to interact with the map. Users have the capability to scroll in and out of the map, select one or more trials, and view the details of the trial. 
 <br>
@@ -17,8 +17,7 @@
 
 <hr>
 
-
-<h3 align="Left"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
+<h3 align="ce"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
 <p align="Left">
 Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
 
