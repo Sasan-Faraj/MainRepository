@@ -24,4 +24,13 @@ Focusing on educating people on efficient data handling, I created an R-script f
  This task was done for the The Depository Library Council which is an oversight comittee of the U.S. Government Publishing Organization. Though currently hosted on my own repository, the file will soon be hosted on the GPO's repository. 
 </p>
 
+<hr>
+
+<h3 align="center"><a href ="__"> Supervised Classification Methodologies Given Class Imbalances.</a></h3>
+<p align="Left">
+  Leverage soybean disease status and plant informational data, I compared the the results of two supervised classification methods: Multivariate Logistic Regression and Random Forest Regression. The data had 19 classes, 35 features, 306 instances, and 712 missing values. I implement and comment on data imputation methodologies, sampling methodologies, and performing a gridsearchCV for efficiency of hyperparameter testing.
+  
+  I also did a deep dive into the strongest predictors of the diseas status. Though we want accuracy, we want to know why a process is happening in order to creat solutions for it. Further logic and writing can be found in the code.
+</p>
+
 
