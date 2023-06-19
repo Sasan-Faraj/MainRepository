@@ -21,7 +21,7 @@
 <p align="Left">
 Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
 <br>
-
+<br>
  This task was done for the The Depository Library Council which is an oversight comittee of the U.S. Government Publishing Organization. Though currently hosted on my own repository, the file will soon be hosted on the GPO's repository. 
 </p>
 
@@ -31,6 +31,7 @@ Focusing on educating people on efficient data handling, I created an R-script f
 <p align="Left">
   Leveraging soybean disease classification and plant informational data, I compared the the results of two supervised classification methods: Multivariate Logistic Regression and Random Forest Regression. The data had 19 classes, 35 features, 306 instances, and 712 missing values.
 <br>
+ <br>
   The purpose of this analysis, rather than simply obtaining the highest accuracy, is to demonstrate the different methodologies and concepts that need to be thought about for implementation of supervised learning classification models. Namely, I touch on data imputation, sampling, and hyperparameter tuning methodologies. I also took this project further to identify key features for prediction as to mimic the business case of finding the most important factor for a given target of an analysis. We want to know why a process is happening in order to create solutions for it.
 </p>
 
