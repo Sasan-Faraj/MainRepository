@@ -26,7 +26,7 @@ Focusing on educating people on efficient data handling, I created an R-script f
 
 <hr>
 
-<h3 align="center"><a href ="https://sasan-faraj.github.io/MainRepository/"> Supervised Classification Methodologies Given Class Imbalances.</a></h3>
+<h3 align="center"><a href ="https://sasan-faraj.github.io/SoyBeanDiseaseClassification/"> Supervised Classification Methodologies Given Class Imbalances.</a></h3>
 <p align="Left">
   Leverage soybean disease status and plant informational data, I compared the the results of two supervised classification methods: Multivariate Logistic Regression and Random Forest Regression. The data had 19 classes, 35 features, 306 instances, and 712 missing values. I implement and comment on data imputation methodologies, sampling methodologies, and performing a gridsearchCV for efficiency of hyperparameter testing.
   
