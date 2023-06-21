@@ -16,6 +16,21 @@
 <br>
   This project leveraged techniques in local data preprocessing, cloud based data management, geocoding, and mapping techniques. The softwares and languages relied on were ArcGIS Online for display and layer hosting with prep
 
+
+<hr>
+
+<h3 align="center"><a href ="https://sasan-faraj.github.io/SatelliteReliability/"> Fitting large satellite, right-censored failure data with covariates to the Weibull distribution</a></h3>
+<h4 align="Center">May 2023</h4>
+
+<p align="Left">
+  This project was the final project for my graduate class, Reliability. The goal for project was to find a method to model satellite failure and provide estimates on the failure rates and mean time to failur for large satellites, accounting for covariates. I expanded on methodologies within the literature by focusing on covariates. This is critical as products are not used within a vaccuum, rather in conjunction to other factors. 
+<br>
+ <br>
+  I incorporated open sourced data, as detailed in the report. This project and presentation was for educational advancement purposes.
+</p>
+
+
+
 <hr>
 
 <h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
@@ -29,17 +44,6 @@ Focusing on educating people on efficient data handling, I created an R-script f
 </p>
 
 
-<hr>
-
-<h3 align="center"><a href ="https://sasan-faraj.github.io/SatelliteReliability/"> Fitting large satellite, right-censored failure data with covariates to the Weibull distribution</a></h3>
-<h4 align="Center">May 2023</h4>
-
-<p align="Left">
-  This project was the final project for my graduate class, Reliability. The goal for project was to find a method to model satellite failure and provide estimates on the failure rates and mean time to failur for large satellites, accounting for covariates. I expanded on methodologies within the literature by focusing on covariates. This is critical as products are not used within a vaccuum, rather in conjunction to other factors. 
-<br>
- <br>
-  I incorporated open sourced data, as detailed in the report. This project and presentation was for educational advancement purposes.
-</p>
 
 
 
