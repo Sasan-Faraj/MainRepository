@@ -8,7 +8,7 @@
 <hr>
 
 
-<h3 align = "center"> <a href="https://experience.arcgis.com/experience/eed2f63af3fc40b7ba93b327e2ac44a2">Mapping Clincal Trials:</a>  </h3>
+<h3 align = "center"> <a href="https://experience.arcgis.com/experience/eed2f63af3fc40b7ba93b327e2ac44a2">Mapping Clincal Trials</a>  </h3>
 <h4 align="Center">May 2023</h4>
 <p align = "left">
   Expanding upon a study's static heat map of clinical trials relating to diabetic eye diseases in the US, I created an web application to enhance the visualization, allowing for users to interact with the map. Users have the capability to scroll in and out of the map, select one or more trials, and view the details of the trial. 
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization.</a></h3>
+<h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization</a></h3>
 <h4 align="Center">February - May 2023</h4>
 
 <p align="Left">
