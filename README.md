@@ -5,6 +5,25 @@
   This portfolio contains all projects I have completed for class, research, or personal interest.
 </p>
 
+
+
+
+<hr>
+
+<h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization</a></h3>
+<h4 align="Center">February - May 2023. Published October 2023 </h4>
+
+<p align="Left">
+Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
+<br>
+<br>
+ This task was done for the The Depository Library Council which is an oversight comittee of the U.S. Government Publishing Organization. My contribution was cited within <a href = "https://fdlp.gov/sites/default/files/file_repo/dlc-covid19-fdlp-impact-first-report-10132023.pdf"> this whitepaper</a> and with my work was posted to <a href="https://www.fdlp.gov/file-repository/988/r-data-analysis-q6-2021-biennial-survey"> this website> </a>.
+  
+</p>
+
+
+
+
 <hr>
 
 
@@ -31,17 +50,7 @@
 
 
 
-<hr>
 
-<h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization</a></h3>
-<h4 align="Center">February - May 2023</h4>
-
-<p align="Left">
-Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
-<br>
-<br>
- This task was done for the The Depository Library Council which is an oversight comittee of the U.S. Government Publishing Organization. Though currently hosted on my own repository, the file will soon be hosted on the GPO's repository. 
-</p>
 
 
 
