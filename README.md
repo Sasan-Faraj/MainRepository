@@ -5,7 +5,20 @@
   This portfolio contains all projects I have completed for class, research, or personal interest.
 </p>
 
+<hr>
 
+<h3 align="center"><a href ="https://sasan-faraj.github.io/RegressionFinalProject/"> Automating Linear Regression (OLS) Tasks in Python</a></h3>
+<h4 align="Center"> December 2023 </h4>
+
+<p align="Left">
+This project is an extension of my final for my graduate Regression class. I leverage Python to perform an Ordinary Least Squares Analysis on the total contract amount of active roster contract amounts for the NFL team Commanders'. For the course, I used a commercial software called Minitab, this project aims to demonstrate how I can build up the same tools in a freely available coding language. 
+
+Namely, I build functions to perform statistical based residual analysis and an OLS run, standardize continuous variables, create interaction terms, and perform a forward stepwise collection (recursively defined) for feature selection. I include elements of theory and results. [Here](https://sasan-faraj.github.io/RegressionFinalProject/RegressionFunctions.html) is a link to the functions I wrote that support the analysis linked in the heading.
+  
+  Focusing on educating people on efficient data handling, I created an R-script for research librarians across the America to use and learn from. This script brings in data, subsets it, and export out that data. With a variety of different use cases, librarians are able to adjust the subsetting as they see fit or even add to them.
+
+  
+</p>
 
 
 <hr>
