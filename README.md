@@ -20,6 +20,22 @@ Namely, I build functions to perform statistical based residual analysis and an 
 </p>
 
 
+
+<hr>
+
+<h3 align="center"><a href ="https://experience.arcgis.com/experience/a5dd7b0e8dc1448782f624c7ce86ed29"> Number of Diabetes Clinical Trial Sites per Trial - Interactive Geospatial Visualization </a></h3>
+<h4 align="Center"> December 2023 </h4>
+
+<p align="Left">
+This project is an extension of my graduate independent research, studying what led certain states to have more clinical trial sites per clinical trial compared to other states, as it relates to diabetic clinical trials.
+
+I performed data joining from multiple government and private resources. Though this specific visualization does not contain analysis, I ended up leveraging OLS for my final analysis. I created the visualization above to demonstrate how visualizations be useful for modeling. My advisor at the time for the project was Professor Ninh at William and Mary.
+  
+
+</p>
+
+
+
 <hr>
 
 <h3 align="center"><a href ="https://sasan-faraj.github.io/DataSubsetting_GPOAnalysis/"> Creating a Subsetting Template and Tutorial for the Government Publishing Organization</a></h3>
